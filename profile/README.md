@@ -1,11 +1,10 @@
-# 大家好！这里是云锻开源团队|CloudForge-OSSofficial
-# ☁️ 云锻开源团队 | CloudForge OSS Team
+# 大家好！这里是棱镜开源团队 | Prism OSS Team
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Discord](https://img.shields.io/discord/your-discord-channel-id)](https://discord.com/invite/nZXcQGauR6)
 
-> **锻造云端利器，共建开源生态**  
+> **折射技术光芒，聚焦开源价值**  
 > 我们致力于构建云原生领域的开源工具链，提供可落地的生产级解决方案。
 
 ## 🌟 核心价值
@@ -16,41 +15,51 @@
 
 ## 🛠️ 核心项目
 
-### [⚒️ CloudForge-Home](https://github.com/yunduan-CloudForge/cloudforge-home)
-云锻开源官网项目 提供模板以供使用  
-[![Release](https://img.shields.io/github/v/release/yunduan-CloudForge/cloudforge-home)](https://github.com/yunduan-CloudForge/cloudforge-home/releases)
-[![GitHub Stars](https://img.shields.io/github/stars/yunduan-CloudForge/cloudforge-home)](https://github.com/yunduan-CloudForge/cloudforge-home/stargazers)
+### [🔺 Prism-Home](https://github.com/Prism-lengjing/prism-home)
+棱镜开源官网项目 提供模板以供使用  
+[![Release](https://img.shields.io/github/v/release/Prism-lengjing/prism-home)](https://github.com/Prism-lengjing/prism-home/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/Prism-lengjing/prism-home)](https://github.com/Prism-lengjing/prism-home/stargazers)
 
 ## 🛠️ 公益项目
 
-### [⚒️ GMI-精神疾病指南](https://github.com/yunduan-CloudForge/GMI)
-云锻开源公益项目 GMI-精神疾病指南  
-[![Release](https://img.shields.io/github/v/release/yunduan-CloudForge/GMI)](https://github.com/yunduan-CloudForge/GMI)
-[![GitHub Stars](https://img.shields.io/github/stars/yunduan-CloudForge/GMI)](https://github.com/yunduan-CloudForge/GMI)
+### [🔺 GMI-精神疾病指南](https://github.com/Prism-lengjing/GMI)
+棱镜开源公益项目 GMI-精神疾病指南  
+[![Release](https://img.shields.io/github/v/release/Prism-lengjing/GMI)](https://github.com/Prism-lengjing/GMI)
+[![GitHub Stars](https://img.shields.io/github/stars/Prism-lengjing/GMI)](https://github.com/Prism-lengjing/GMI)
 
 ## 🤝 参与贡献
 欢迎通过以下方式参与：
-1. **代码贡献**：在 [Issues](https://github.com/yunduan-CloudForge/cloudforge-home/issues) 认领任务
+1. **代码贡献**：在 [Issues](https://github.com/Prism-lengjing/prism-home/issues) 认领任务
 2. **文档改进**：完善技术文档或翻译多语言版本
 3. **生态共建**：开发插件或集成第三方服务
 
 **开发流程**：
 ```bash
-git clone https://github.com/yunduan-CloudForge/cloudforge-home.git
-cd cloudforge-home && make setup-environment
+git clone https://github.com/Prism-lengjing/prism-home.git
+cd prism-home && make setup-environment
 ```
 完整指南请参考 [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 🌐 社区生态
-- 🏢 官网门户：https://www.yunforge.xyz
-- 📚 技术文档：https://wiki.yunforge.xyz
+- 🏢 官网门户：https://www.prism-lengjing.xyz
+- 📚 技术文档：https://wiki.prism-lengjing.xyz
 - 💬 Discord 社区：https://discord.gg/nZXcQGauR6
-- 🐦 社交媒体：[CloudForge-official@yunforge.xyz](mailto:CloudForge-official@yunforge.xyz)
+- 🐦 社交媒体：[Prism-official@prism-lengjing.xyz](mailto:Prism-official@prism-lengjing.xyz)
 
 ## 📜 开源协议
 核心项目采用 [Apache 2.0](LICENSE)，部分工具链组件使用 MIT 协议，详见各项目声明。
 
 ---
 
-> 代码锻造云端未来，开源连接无限可能 🔨  
+> 代码折射技术光芒，开源聚焦无限价值 🔺  
 > 期待您的 Star ⭐ 与 Fork 🍴，共同打造云原生工具生态！🚀
+
+这是棱镜开源社区的GitHub自述文件
+
+---
+
+主要变更：
+- 将组织名称从 `prism-team` 更新为 `Prism-lengjing`
+- 更新了所有相关的GitHub链接
+- 更新了官网域名和相关联系方式为 `prism-lengjing.xyz`
+- 保持了棱镜团队的品牌标识和核心价值
