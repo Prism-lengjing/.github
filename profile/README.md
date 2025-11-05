@@ -53,13 +53,3 @@ cd prism-home && make setup-environment
 
 > 代码折射技术光芒，开源聚焦无限价值 🔺  
 > 期待您的 Star ⭐ 与 Fork 🍴，共同打造云原生工具生态！🚀
-
-这是棱镜开源社区的GitHub自述文件
-
----
-
-主要变更：
-- 将组织名称从 `prism-team` 更新为 `Prism-lengjing`
-- 更新了所有相关的GitHub链接
-- 更新了官网域名和相关联系方式为 `prism-lengjing.xyz`
-- 保持了棱镜团队的品牌标识和核心价值
