@@ -1,4 +1,4 @@
-# 大家好！这里是棱镜开源团队 | Prism OSS Team
+# 大家好！这里是光圈棱镜 | AperturePrism
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -15,10 +15,10 @@
 
 ## 🛠️ 核心项目
 
-### [🔺 Prism-Home](https://github.com/Prism-lengjing/prism-home)
+### [🔺 APrism-Home](https://github.com/Prism-lengjing/aprism-home)
 棱镜开源官网项目 提供模板以供使用  
-[![Release](https://img.shields.io/github/v/release/Prism-lengjing/prism-home)](https://github.com/Prism-lengjing/prism-home/releases)
-[![GitHub Stars](https://img.shields.io/github/stars/Prism-lengjing/prism-home)](https://github.com/Prism-lengjing/prism-home/stargazers)
+[![Release](https://img.shields.io/github/v/release/Prism-lengjing/aprism-home)](https://github.com/Prism-lengjing/prism-home/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/Prism-lengjing/aprism-home)](https://github.com/Prism-lengjing/prism-home/stargazers)
 
 ## 🛠️ 公益项目
 
@@ -29,7 +29,7 @@
 
 ## 🤝 参与贡献
 欢迎通过以下方式参与：
-1. **代码贡献**：在 [Issues](https://github.com/Prism-lengjing/prism-home/issues) 认领任务
+1. **代码贡献**：在 [Issues](https://github.com/Prism-lengjing/aprism-home/issues) 认领任务
 2. **文档改进**：完善技术文档或翻译多语言版本
 3. **生态共建**：开发插件或集成第三方服务
 
@@ -41,15 +41,12 @@ cd prism-home && make setup-environment
 完整指南请参考 [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 🌐 社区生态
-- 🏢 官网门户：https://www.prism-lengjing.xyz
-- 📚 技术文档：https://wiki.prism-lengjing.xyz
-- 💬 Discord 社区：https://discord.gg/nZXcQGauR6
-- 🐦 社交媒体：[Prism-official@prism-lengjing.xyz](mailto:Prism-official@prism-lengjing.xyz)
-
-## 📜 开源协议
-核心项目采用 [Apache 2.0](LICENSE)，部分工具链组件使用 MIT 协议，详见各项目声明。
+- 🏢 官网门户：[点击跳转](https://www.aprism.top)
+- 📚 Slack：[点击跳转](https://join.slack.com/t/prism-mxy9862/shared_invite/zt-3llxiwe44-0~kEaQkbmOCuZgY_jYH2sA)
+- 💬 Discord 社区：[点击跳转](https://discord.gg/NmGyMkwfPT)
+- 🐦 社交媒体：[hello@aprism.top](mailto:hello@aprism.top)
 
 ---
 
 > 代码折射技术光芒，开源聚焦无限价值 🔺  
-> 期待您的 Star ⭐ 与 Fork 🍴，共同打造云原生工具生态！🚀
+> 期待您的 Star ⭐ 与 Fork 🍴，共同打造光圈棱镜的开源生态！🚀
