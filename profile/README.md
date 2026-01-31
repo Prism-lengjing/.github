@@ -19,6 +19,14 @@
 棱镜开源官网项目 提供模板以供使用  
 [![Release](https://img.shields.io/github/v/release/Prism-lengjing/aprism-home)](https://github.com/Prism-lengjing/prism-home/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/Prism-lengjing/aprism-home)](https://github.com/Prism-lengjing/prism-home/stargazers)
+### [🔺 Aprism-Frp-adminWebUI](https://github.com/Prism-lengjing/Aprism-Frp-adminWebUI)
+棱镜Frp管理全套解决方案  
+[![Release](https://img.shields.io/github/v/release/Prism-lengjing/Aprism-Frp-adminWebUI)](https://github.com/Prism-lengjing/Aprism-Frp-adminWebUI/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/Prism-lengjing/Aprism-Frp-adminWebUI)](https://github.com/Prism-lengjing/Aprism-Frp-adminWebUI/stargazers)
+### [🔺 Aprism-Frp-adminWebUI](https://github.com/Prism-lengjing/Aprism-Frp-adminWebUI)
+棱镜Frp管理全套解决方案  
+[![Release](https://img.shields.io/github/v/release/Prism-lengjing/nai2openai)](https://github.com/Prism-lengjing/nai2openai/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/Prism-lengjing/nai2openai)](https://github.com/Prism-lengjing/nai2openai/stargazers)
 
 ## 🛠️ 公益项目
 
