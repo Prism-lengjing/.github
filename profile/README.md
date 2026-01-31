@@ -23,8 +23,8 @@
 棱镜Frp管理全套解决方案  
 [![Release](https://img.shields.io/github/v/release/Prism-lengjing/Aprism-Frp-adminWebUI)](https://github.com/Prism-lengjing/Aprism-Frp-adminWebUI/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/Prism-lengjing/Aprism-Frp-adminWebUI)](https://github.com/Prism-lengjing/Aprism-Frp-adminWebUI/stargazers)
-### [🔺 Aprism-Frp-adminWebUI](https://github.com/Prism-lengjing/Aprism-Frp-adminWebUI)
-棱镜Frp管理全套解决方案  
+### [🔺 nai2openai](https://github.com/Prism-lengjing/nai2openai)
+棱镜-nai2openai项目  
 [![Release](https://img.shields.io/github/v/release/Prism-lengjing/nai2openai)](https://github.com/Prism-lengjing/nai2openai/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/Prism-lengjing/nai2openai)](https://github.com/Prism-lengjing/nai2openai/stargazers)
 
