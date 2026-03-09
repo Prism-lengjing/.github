@@ -1,4 +1,5 @@
 # 大家好！这里是光圈棱镜 | AperturePrism
+## 光圈棱镜因特殊原因 现进入Paused状态 在团队成员沟通完成后将恢复正常状态
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
